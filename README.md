@@ -9,5 +9,6 @@ It aims to document my understanding of how AI-powered agents are integrated int
 These are the following files in this repository:
 * Course Introduction
 * Personal Learning Objetives
-* Concept Analysis
-* Reflection
+* Reflection from the Concept Analysis
+
+* Note: Concept Analysis & Reflection to Question is on PDF uploaded in assignment tab
